@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeomchang-massage-note.pub-jongno-pro.xyz/sitemap.xml
